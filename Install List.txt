@@ -1,0 +1,12 @@
+python3.9
+pip3 install requests2
+pip3 install beautifulsoup4
+pip3 install PILLOW
+pip3 install opencv-python
+pip3 install pysimplegui
+
+pip3 install pyinstaller
+pip3 install --user numpy scipy matplotlib
+
+發現numpy一直有問題 上網查說可以降版本
+連結:https://zhuanlan.zhihu.com/p/306594926
